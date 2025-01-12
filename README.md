@@ -74,8 +74,4 @@ This tool is strictly for educational purposes. Unauthorized network packet snif
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
